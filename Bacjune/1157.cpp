@@ -9,7 +9,7 @@ int main() {
 	int max = 0,index = -1;
 
 	for (int i = 0;i < str.length();i++) {
-		str[i] = toupper(str[i]);
+		str[i] = toupper(str[i])-65;
 		arr[str[i]]++;
 	}
 
