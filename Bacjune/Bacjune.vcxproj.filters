@@ -69,7 +69,16 @@
     <ClCompile Include="2751.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="10810.cpp">
+    <ClCompile Include="25.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="27.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="first pos.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1003.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
