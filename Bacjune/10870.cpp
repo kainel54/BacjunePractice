@@ -2,17 +2,21 @@
 
 using namespace std;
 
+int fibo(int n) {
+	if (n == 0) {
+		return 0;
+	}
+	else if (n == 1) {
+		return 1;
+	}
+	else {
+		return fibo(n - 1) + fibo(n - 2);
+	}
+}
+
 int main() {
-	int n,arr[100],m,cnt=0;
+	int n;
 	cin >> n;
-	for (int i = 0;i < n;i++) {
-		cin >> arr[i];
-	}
-	cin >> m;
-	for (int i = 0;i < n;i++) {
-		if (arr[i] == m) {
-			cnt++;
-		}
-	}
-	cout << cnt;
+	cout << fibo(n);
+	string temp;
 }
