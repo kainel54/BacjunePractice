@@ -229,7 +229,22 @@
       <Filter>소스 파일\푼 문제</Filter>
     </ClCompile>
     <ClCompile Include="25206.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\푼 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="18870.cpp">
+      <Filter>소스 파일\푼 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="4101.cpp">
+      <Filter>소스 파일\푼 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="1236.cpp">
+      <Filter>소스 파일\푼 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="2522.cpp">
+      <Filter>소스 파일\푼 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="2443.cpp">
+      <Filter>소스 파일\푼 문제</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
