@@ -213,5 +213,23 @@
     <ClCompile Include="1654.cpp">
       <Filter>소스 파일\푼 문제</Filter>
     </ClCompile>
+    <ClCompile Include="2108.cpp">
+      <Filter>소스 파일\푼 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="1966.cpp">
+      <Filter>소스 파일\푼 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="13410.cpp">
+      <Filter>소스 파일\푼 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="14697.cpp">
+      <Filter>소스 파일\푼 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="2908.cpp">
+      <Filter>소스 파일\푼 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="25206.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
