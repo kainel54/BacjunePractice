@@ -309,6 +309,11 @@
     <ClCompile Include="24262.cpp">
       <Filter>소스 파일\푼 문제</Filter>
     </ClCompile>
+<<<<<<< HEAD
+    <ClCompile Include="2720.cpp">
+      <Filter>소스 파일\푼 문제</Filter>
+    </ClCompile>
+=======
     <ClCompile Include="2579.cpp">
       <Filter>소스 파일\푼 문제</Filter>
     </ClCompile>
@@ -330,5 +335,6 @@
     <ClCompile Include="2851.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+>>>>>>> 705f6e9ca544a8cc74d9cecf2e5dfc2b41982a41
   </ItemGroup>
 </Project>
