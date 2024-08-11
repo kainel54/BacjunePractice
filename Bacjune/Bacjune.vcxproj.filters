@@ -327,14 +327,8 @@
     <ClCompile Include="2435.cpp">
       <Filter>소스 파일\푼 문제</Filter>
     </ClCompile>
-    <ClCompile Include="소스.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="18111.cpp">
-      <Filter>소스 파일\푼 문제</Filter>
-    </ClCompile>
     <ClCompile Include="2851.cpp">
-      <Filter>소스 파일\푼 문제</Filter>
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
